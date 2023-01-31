@@ -1,0 +1,85 @@
+{
+    "products": [
+        {
+            "id": "D012A3CDE",
+            "name": "Pure Cow Ghee",
+            "brand": "Patanjali",
+            "weight": "1 kg",
+            "price": 450,
+            "quantity": 1,
+            "image": "patanjali-desi-ghee"
+        },
+        {
+            "id": "W012A3CDF",
+            "name": "Kesh Kanti Shampoo",
+            "brand": "Patanjali",
+            "weight": "100 ml",
+            "price": 80,
+            "quantity": 1,
+            "image": "patanjali-kesh-kanti"
+        },
+        {
+            "id": "Q012A3CDG",
+            "name": "Dant Kanti Toothpaste",
+            "brand": "Patanjali",
+            "weight": "100 grams",
+            "price": 45,
+            "quantity": 1,
+            "image": "patanjali-toothpaste"
+        },
+        {
+            "id": "P012A3CDH",
+            "name": "Haldi Chandan Soap",
+            "brand": "Patanjali",
+            "weight": "4 pieces",
+            "price": 70,
+            "quantity": 1,
+            "image": "patanjali-haldi-chandan-soap"
+        },
+        {
+            "id": "I012A3CDI",
+            "name": "Aloe Vera Gel",
+            "brand": "Patanjali",
+            "weight": "150 ml",
+            "price": 79,
+            "quantity": 1,
+            "image": "aloe-vera-gel"
+        },
+        {
+            "id": "Y012A3CDI",
+            "name": "Saundarya Face Wash",
+            "brand": "Patanjali",
+            "weight": "100 grams",
+            "price": 75,
+            "quantity": 1,
+            "image": "saundarya-facewash"
+        },
+        {
+            "id": "T012A3CDI",
+            "name": "Coconut Oil",
+            "brand": "Patanjali",
+            "weight": "200 ml",
+            "price": 75,
+            "quantity": 1,
+            "image": "coconut-oil"
+        },
+        {
+            "id": "M012A3CDI",
+            "name": "Chyawanprash",
+            "brand": "Patanjali",
+            "weight": "1 kg",
+            "price": 250,
+            "quantity": 1,
+            "image": "chyawanprash"
+        },
+        {
+            "id": "J012A3CDI",
+            "name": "Multani Mitti Face Pack",
+            "brand": "Patanjali",
+            "weight": "60 grams",
+            "price": 60,
+            "quantity": 1,
+            "image": "multani-mitti"
+        }
+    ]
+}
